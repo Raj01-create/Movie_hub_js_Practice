@@ -1,6 +1,6 @@
 🎬 Movie Project
 
-A simple movie listing practice project built with **HTML, CSS, and JavaScript**.  
+A simple movie listing practice project built with **HTML, CSS, Bootstarp and JavaScript**.  
 It displays a list of movies with their **title, year, genre, rating, and poster** using a dataset.
 
 
