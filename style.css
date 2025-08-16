@@ -1,0 +1,47 @@
+body{
+    background-color:#000 ;
+    color: white;
+   
+}
+body::-webkit-scrollbar{
+    display: none;
+}
+button{
+    font-weight: bold;
+}
+.poster{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    border: 1px solid;
+    cursor: pointer;
+}
+.dom_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    padding: 40px;
+}
+.hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    transition: 0.7s ease;
+    height: 300px;
+    width: 200px;
+}
+.hover img{
+    width: 100%;
+    transition:transform 0.7s ease;
+    transform: rotateZ(0);
+
+}
+.hover:hover img{
+    transform:scale(1.1) translateZ(35px);
+}
