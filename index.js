@@ -174,6 +174,7 @@ const movies = [
   }
 ];
 
+
 let dom_container = document.querySelector(".dom_container");
 
 let all= document.querySelector('#all');
