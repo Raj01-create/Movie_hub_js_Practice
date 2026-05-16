@@ -21,6 +21,6 @@ It displays a list of movies with their **title, year, genre, rating, and poster
 <br>
 <img width="1488" height="707" alt="Screenshot 2025-08-16 215539" src="https://github.com/user-attachments/assets/b9cfa933-855c-4182-8628-bc192b3b96b7" />
 
-created By Raj
+Created By Raj
 
 
